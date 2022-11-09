@@ -1,2 +1,5 @@
-class Political_Party():
+from models.abstractModel import AbstractModel
+
+
+class PoliticalParty(AbstractModel):
     pass
